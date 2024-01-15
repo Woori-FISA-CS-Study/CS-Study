@@ -10,7 +10,7 @@
 
 https://restfulapi.net/http-status-codes/
 
-![Alt text](image-5.png)
+![Alt text](img/image-5.png)
 
 ##### success
 
@@ -53,7 +53,7 @@ https://restfulapi.net/http-status-codes/
 - SSL(Secure Sockets Layer) 또는 TLS(Transport Layer Security) 프로토콜을 사용하여 통신을 암호화한다.
 - 이를 통해 데이터의 무결성이 보장되고, 중간자 공격(Man-in-the-Middle Attack)으로부터 보호받을 수 있다.
 
-![Alt text](image.png)
+![Alt text](img/image.png)
 
 <br>
 <br>
