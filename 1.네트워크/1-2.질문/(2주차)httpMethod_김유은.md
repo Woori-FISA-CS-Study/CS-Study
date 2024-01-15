@@ -12,7 +12,7 @@
 - PUT : 특정 리소스의 업데이트를 요청한다. 전체 리소스를 교체하는 데 사용된다.
 - DELETE : 특정 리소스의 제거를 요청한다.
 
-![Alt text](image-4.png)
+![Alt text](img/image-4.png)
 
 - PATCH : 특정 리소스의 부분적인 업데이트를 요청한다.
 - HEAD : GET과 동일하지만 메시지 바디를 포함하지 않고, 리소스를 가져오지 않고 정보만을 요청한다.
@@ -29,7 +29,7 @@
 - 캐시 가능 (Cacheable) : 특정 HTTP 요청의 결과를 캐시하여 재사용할 수 있다.
 - 요청/응답에 Body 존재 : 요청이나 응답시 데이터를 Message Body에 담아 보낼 수 있다.
 
-![Alt text](image-1.png)
+![Alt text](img/image-1.png)
 
 <br>
 

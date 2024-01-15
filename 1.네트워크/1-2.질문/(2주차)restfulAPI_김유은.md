@@ -5,7 +5,7 @@
   HTTP Method를 통해 해당 자원에 대한 CRUD를 적용하는 것을 의미한다.
 - REST API를 제공하는 웹 서비스를 RESTful하다고 한다.
 
-![Alt text](image-6.png)
+![Alt text](img/image-6.png)
 
 <br>
 
