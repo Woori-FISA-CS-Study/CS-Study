@@ -38,7 +38,11 @@ Authoritative DNS 서버 주소를 저장해두고 안내하는 역할을 한다
 실제 개인 도메인과 IP 주소의 관계가 기록/저장/변경되는 서버.그래서 권한의 의미인 Authoritative가 붙는다.
 일반적으로 도메인/호스팅 업체의 ‘네임서버’를 말하지만, 개인이나 회사 DNS 서버 구축을 한 경우에도 여기에 해당하게 된다.
 
+
 ### 재귀적 쿼리 Recursive Query
  Local DNS 서버가 여러 DNS 서버에 차례대로 (Root DNS 서버 → TLD DNS 서버(.com) → Authoritative DNS 서버(naver.com) 요청하여 
 그 답을 찾는 과정.
 
+### 질문
+dns 동작과정 순서
+1. tld서버 2. root서버 3. local dns서버 4.authoritaive 서버  
