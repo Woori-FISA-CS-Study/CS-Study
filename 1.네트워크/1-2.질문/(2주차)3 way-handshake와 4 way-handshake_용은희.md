@@ -38,6 +38,7 @@ FIN (finish) : 세션을 종료시키는데 사용되며, 더 이상 보낸 데�
 
 ### 4-way Handshake 동작방식
 
+
 **Step1 [Client -> FIN -> Server]**
 Client가 연결을 종료하겠다는 FIN플래그를 전송한다. 보낸 후에 FIN-WAIT-1 상태로 변한다.
  
