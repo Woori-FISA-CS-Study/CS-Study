@@ -110,9 +110,10 @@ url에 `http://artistcom/artists=-1 UNION SELECT 1, uname, pwd FROM users WHERE 
 ### 2-3-1. PreparedStatement(파라미터 바인딩)
 
 <img width="726" alt="스크린샷 2024-01-30 오후 9 24 59" src="https://github.com/NaKyongRyul/BaekjoonHub/assets/67616146/57491dea-deb2-47b5-a3e5-896139c8d31a">
+<br>
 기존의 코드가 이랬다면 sql 구문에 대한 검증이나 예외처리가 없다.
-
 <img width="718" alt="스크린샷 2024-01-30 오후 9 26 21" src="https://github.com/NaKyongRyul/BaekjoonHub/assets/67616146/864c6207-aacf-4425-8e3b-4fa5e4d10ec5">
+<br>
 이렇게 setString()을 사용해서 데이터를 넣으면 결과가 다르다.
 
 ```sql
