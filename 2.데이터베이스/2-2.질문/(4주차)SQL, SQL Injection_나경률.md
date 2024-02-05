@@ -24,7 +24,7 @@ SQL을 사용하기 전, 데이터 분석은 엑셀을 사용하거나 수작업
     
   - 가벼운 설치와 사용이 가능하며, 웹 애플리케이션과 소규모 비즈니스에 많이 사용됨
     
-3. MY SQL(Microsoft SQL Server)
+3. MSSQL(Microsoft SQL Server)
   
   - Microsoft가 개발한 관계형 데이터베이스 관리 시스템
     
