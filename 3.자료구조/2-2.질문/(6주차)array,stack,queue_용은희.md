@@ -28,7 +28,8 @@
 
 ### 2. 이중 연결 리스트
 
-![2](https://github.com/Woori-FISA-CS-Study/CS-Study/assets/35751392/ca2ebfbc-8712-4558-84f7-0e73e7547593)
+![3](https://github.com/Woori-FISA-CS-Study/CS-Study/assets/35751392/b1796ef4-869e-48ed-bb79-0996aa085f46)
+
 
 
 ### 3. 원형 연결 리스트
